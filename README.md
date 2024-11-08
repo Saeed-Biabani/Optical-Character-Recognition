@@ -94,5 +94,10 @@
   <div align="center"><img src="assets/lossCurve.png"></div>
 </p>
 
+## Prediction
+```bash
+python3 inference.py path/to/image/file.png
+```
+
 ## 🛡️ License <a name="license"></a>
 Project is distributed under [MIT License](https://github.com/Saeed-Biabani/Optical-Character-Recognition/blob/main/LICENSE)
