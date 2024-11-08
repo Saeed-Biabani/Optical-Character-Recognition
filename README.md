@@ -100,11 +100,11 @@ python3 inference.py path/to/image/file.png
 ```
 <table align = "center">
   <tr>
-      <td><strong>Image</strong></td>
-      <td><strong>Actual Text</strong></td>
-      <td><strong>Prediction</strong></td>
-      <td><strong>WER</strong></td>
-      <td><strong>CER</strong></td>
+      <td><div align="center"><strong>Image</strong></div></td>
+      <td><div align="center"><strong>Actual Text</strong></div></td>
+      <td><div align="center"><strong>Prediction</strong></div></td>
+      <td><div align="center"><strong>WER</strong></div></td>
+      <td><div align="center"><strong>CER</strong></div></td>
   </tr>
   
   <tr>
