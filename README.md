@@ -98,6 +98,34 @@
 ```bash
 python3 inference.py path/to/image/file.png
 ```
+<table align = "center">
+  <tr>
+      <td><strong>Image</strong></td>
+      <td><strong>Actual Text</strong></td>
+      <td><strong>Prediction</strong></td>
+      <td><strong>WER</strong></td>
+      <td><strong>CER</strong></td>
+  </tr>
+  
+  <tr>
+      <td><img src="assets/gen/img_7.jpg"></img></td>
+      <td><img src="assets/gen/img_8.jpg"></img></td>
+      <td><img src="assets/gen/img_9.jpg"></img></td>
+      <td><img src="assets/gen/img_10.jpg"></img></td>
+      <td><img src="assets/gen/img_11.jpg"></img></td>
+      <td><img src="assets/gen/img_12.jpg"></img></td>
+  </tr>
+  
+  <tr>
+      <td><img src="assets/gen/img_13.jpg"></img></td>
+      <td><img src="assets/gen/img_14.jpg"></img></td>
+      <td><img src="assets/gen/img_15.jpg"></img></td>
+      <td><img src="assets/gen/img_16.jpg"></img></td>
+      <td><img src="assets/gen/img_17.jpg"></img></td>
+      <td><img src="assets/gen/img_18.jpg"></img></td>
+  </tr>
+</table>
+
 
 ## 🛡️ License <a name="license"></a>
 Project is distributed under [MIT License](https://github.com/Saeed-Biabani/Optical-Character-Recognition/blob/main/LICENSE)
