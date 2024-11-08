@@ -5,7 +5,7 @@
 
 #### **Quick Links**
 - [Dependencies](#Dependencies)
-- [Getting Started](#Getting-Starte)
+- [Getting Started](#Getting-Started)
 - [Architecture](#Architecture)
 - [Modules](#Modules)
 - [Dataset](#Dataset)
@@ -103,7 +103,7 @@ from src.nn import TRnet
 model, metadata = TRnet.from_pretrained('path/to/model.pth')
 
 # load tokenizer
-tokenizer = loadTokenizer(metadata.vocab_path)
+tokenizer = loadTokenizer('path/to/vocab.pkl')
 ```
 
 ```bash
@@ -136,8 +136,8 @@ python3 inference.py path/to/image/file.png
 
   <tr>
       <td><img src="assets/sample_3.png"></img></td>
-      <td><div align="center">پیتزا سرد سرد بود واقعا خوشمزه نبود</div></td>
       <td><div align="center">پیتزا سرد سرد بود اصلا خوشمزه نبود</div></td>
+      <td><div align="center">پیتزا سرد سرد بود واقعا خوشمزه نبود</div></td>
       <td><div align="center">0.14</div></td>
       <td><div align="center">0.05</div></td>
   </tr>
