@@ -95,6 +95,17 @@
 </p>
 
 ## Prediction
+```python
+from src.tokenizer import loadTokenizer
+from src.nn import TRnet
+
+# load pretrained model
+model, metadata = TRnet.from_pretrained('model-new.pth')
+
+# load tokenizer
+tokenizer = loadTokenizer(metadata.vocab_path)
+```
+
 ```bash
 python3 inference.py path/to/image/file.png
 ```
