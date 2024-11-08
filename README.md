@@ -15,7 +15,7 @@
 
 ## Dependencies
 - Install Dependencies `$ pip install -r requirements.txt`
-- Download Pretrained Weights [Here](https://huggingface.co/ordaktaktak/Machine-Translation)
+- Download Pretrained Weights [Here](https://huggingface.co/ordaktaktak/Optical-Character-Recognition)
 
 ## Getting Started
 - Project Structure
