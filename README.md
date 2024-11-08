@@ -126,7 +126,7 @@ python3 inference.py path/to/image/file.png
   <tr>
       <td><img src="assets/sample_3.png"></img></td>
       <td><div align="center">پیتزا سرد سرد بود واقعا خوشمزه نبود</div></td>
-      <td><div align="center">پیتزا سرد سرد بود واقعا خوشمزه نبود</div></td>
+      <td><div align="center">پیتزا سرد سرد بود اصلا خوشمزه نبود</div></td>
       <td><div align="center">0.14</div></td>
       <td><div align="center">0.05</div></td>
   </tr>
