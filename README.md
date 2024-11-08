@@ -100,7 +100,7 @@ from src.tokenizer import loadTokenizer
 from src.nn import TRnet
 
 # load pretrained model
-model, metadata = TRnet.from_pretrained('model-new.pth')
+model, metadata = TRnet.from_pretrained('path/to/model.pth')
 
 # load tokenizer
 tokenizer = loadTokenizer(metadata.vocab_path)
