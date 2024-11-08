@@ -108,21 +108,27 @@ python3 inference.py path/to/image/file.png
   </tr>
   
   <tr>
-      <td><img src="assets/gen/img_7.jpg"></img></td>
-      <td><img src="assets/gen/img_8.jpg"></img></td>
-      <td><img src="assets/gen/img_9.jpg"></img></td>
-      <td><img src="assets/gen/img_10.jpg"></img></td>
       <td><img src="assets/gen/img_11.jpg"></img></td>
-      <td><img src="assets/gen/img_12.jpg"></img></td>
+      <td>salam</td>
+      <td>salam</td>
   </tr>
   
   <tr>
-      <td><img src="assets/gen/img_13.jpg"></img></td>
       <td><img src="assets/gen/img_14.jpg"></img></td>
-      <td><img src="assets/gen/img_15.jpg"></img></td>
-      <td><img src="assets/gen/img_16.jpg"></img></td>
-      <td><img src="assets/gen/img_17.jpg"></img></td>
-      <td><img src="assets/gen/img_18.jpg"></img></td>
+      <td>salam</td>
+      <td>salam</td>
+  </tr>
+
+  <tr>
+      <td><img src="assets/gen/img_14.jpg"></img></td>
+      <td>salam</td>
+      <td>salam</td>
+  </tr>
+
+  <tr>
+      <td><img src="assets/gen/img_14.jpg"></img></td>
+      <td>salam</td>
+      <td>salam</td>
   </tr>
 </table>
 
