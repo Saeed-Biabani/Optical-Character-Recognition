@@ -111,24 +111,32 @@ python3 inference.py path/to/image/file.png
       <td><img src="assets/gen/img_11.jpg"></img></td>
       <td><div align="center">salam</div></td>
       <td><div align="center">salam</div></td>
+      <td><div align="center">0.0</div></td>
+      <td><div align="center">0.0</div></td>
   </tr>
   
   <tr>
       <td><img src="assets/gen/img_14.jpg"></img></td>
       <td><div align="center">salam</div></td>
       <td><div align="center">salam</div></td>
+      <td><div align="center">0.0</div></td>
+      <td><div align="center">0.0</div></td>
   </tr>
 
   <tr>
       <td><img src="assets/gen/img_14.jpg"></img></td>
       <td><div align="center">salam</div></td>
       <td><div align="center">salam</div></td>
+      <td><div align="center">0.0</div></td>
+      <td><div align="center">0.0</div></td>
   </tr>
 
   <tr>
       <td><img src="assets/gen/img_14.jpg"></img></td>
       <td><div align="center">salam</div></td>
       <td><div align="center">salam</div></td>
+      <td><div align="center">0.0</div></td>
+      <td><div align="center">0.0</div></td>
   </tr>
 </table>
 
