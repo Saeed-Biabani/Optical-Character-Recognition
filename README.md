@@ -108,36 +108,37 @@ python3 inference.py path/to/image/file.png
   </tr>
   
   <tr>
-      <td><img src="assets/gen/img_11.jpg"></img></td>
-      <td><div align="center">salam</div></td>
-      <td><div align="center">salam</div></td>
+      <td><img src="assets/sample_1.png"></img></td>
+      <td><div align="center">همه چی خوب فقط سس خیلی کم گذاشته بودن</div></td>
+      <td><div align="center">همه چی خوب فقط سس خیلی کم گذاشته بودن</div></td>
       <td><div align="center">0.0</div></td>
       <td><div align="center">0.0</div></td>
   </tr>
   
   <tr>
-      <td><img src="assets/gen/img_14.jpg"></img></td>
-      <td><div align="center">salam</div></td>
-      <td><div align="center">salam</div></td>
+      <td><img src="assets/sample_2.png"></img></td>
+      <td><div align="center">عالی بود فقط یه کم سوسیس تند بود</div></td>
+      <td><div align="center">عالی بود فقط یه کم سوسیس تند بود</div></td>
       <td><div align="center">0.0</div></td>
       <td><div align="center">0.0</div></td>
   </tr>
 
   <tr>
-      <td><img src="assets/gen/img_14.jpg"></img></td>
-      <td><div align="center">salam</div></td>
-      <td><div align="center">salam</div></td>
+      <td><img src="assets/sample_3.png"></img></td>
+      <td><div align="center">پیتزا سرد سرد بود واقعا خوشمزه نبود</div></td>
+      <td><div align="center">پیتزا سرد سرد بود واقعا خوشمزه نبود</div></td>
+      <td><div align="center">0.14</div></td>
+      <td><div align="center">0.05</div></td>
+  </tr>
+
+  <tr>
+      <td><img src="assets/sample_4.png"></img></td>
+      <td><div align="center">ممنون، خسته نباشید خیلی سریع و به موقع و کامل بود</div></td>
+      <td><div align="center">ممنون، خسته نباشید خیلی سریع و به موقع و کامل بود</div></td>
       <td><div align="center">0.0</div></td>
       <td><div align="center">0.0</div></td>
   </tr>
 
-  <tr>
-      <td><img src="assets/gen/img_14.jpg"></img></td>
-      <td><div align="center">salam</div></td>
-      <td><div align="center">salam</div></td>
-      <td><div align="center">0.0</div></td>
-      <td><div align="center">0.0</div></td>
-  </tr>
 </table>
 
 
