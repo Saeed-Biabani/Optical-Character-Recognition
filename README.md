@@ -109,26 +109,26 @@ python3 inference.py path/to/image/file.png
   
   <tr>
       <td><img src="assets/gen/img_11.jpg"></img></td>
-      <td>salam</td>
-      <td>salam</td>
+      <td><div align="center">salam</div></td>
+      <td><div align="center">salam</div></td>
   </tr>
   
   <tr>
       <td><img src="assets/gen/img_14.jpg"></img></td>
-      <td>salam</td>
-      <td>salam</td>
+      <td><div align="center">salam</div></td>
+      <td><div align="center">salam</div></td>
   </tr>
 
   <tr>
       <td><img src="assets/gen/img_14.jpg"></img></td>
-      <td>salam</td>
-      <td>salam</td>
+      <td><div align="center">salam</div></td>
+      <td><div align="center">salam</div></td>
   </tr>
 
   <tr>
       <td><img src="assets/gen/img_14.jpg"></img></td>
-      <td>salam</td>
-      <td>salam</td>
+      <td><div align="center">salam</div></td>
+      <td><div align="center">salam</div></td>
   </tr>
 </table>
 
